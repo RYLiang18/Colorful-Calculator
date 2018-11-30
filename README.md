@@ -1,4 +1,4 @@
-# Colorful Ca;ci;atpr
+# Colorful Calculator
 a simple pocket calculator with static RGB buttons.
 
 The buttons change color every time the calculator is launched,
