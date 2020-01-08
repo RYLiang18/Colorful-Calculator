@@ -1,5 +1,3 @@
 # Colorful Calculator
-A simple pocket calculator with static RGB buttons.
 
-The buttons change color every time the calculator is launched,
-so if the numbers are hard to read, relaunch the calculator.
+This is a simple pocket calculator program implemented with Java and an FSM
